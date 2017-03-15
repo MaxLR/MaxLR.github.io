@@ -93,6 +93,10 @@
 			min-width: 1200px;
 		}
 
+		#resume-button {
+			margin-top: 25px;
+		}
+
 		.container.\37 5\25 {
 			width: 900px;
 		}
@@ -1955,7 +1959,7 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 6em 0 9em 0;
+				padding: 2em 0 4em 0;
 			}
 
 				.wrapper .title {
@@ -1969,10 +1973,6 @@
 					padding-top: 0.5em;
 				}
 
-			#header-wrapper {
-				padding: 0;
-			}
-
 			#intro-wrapper {
 				padding-bottom: 8em;
 			}
@@ -1985,7 +1985,7 @@
 			}
 
 			.homepage #header {
-				padding: 14em 0;
+				padding: 15em 0;
 			}
 
 		/* Logo */
@@ -2239,7 +2239,7 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 4em 0 7em 0;
+				padding: 2em 0 4em 0;
 			}
 
 			#intro-wrapper {
@@ -2257,7 +2257,7 @@
 			}
 
 			.homepage #header {
-				padding: 14em 0;
+				padding: 15em 0;
 			}
 
 		/* Logo */
@@ -2353,6 +2353,8 @@
 			button,
 			.button {
 				display: block;
+				position: relative;
+				z-index: 1;
 				width: 100%;
 				font-size: 1em;
 				padding: 1em 0 1em 0;
@@ -2610,7 +2612,7 @@
 					}
 
 			#header-wrapper {
-				padding: 6em 2em 4em 2em;
+				padding: 2em 2em 3em 2em;
 			}
 
 			#footer-wrapper {
