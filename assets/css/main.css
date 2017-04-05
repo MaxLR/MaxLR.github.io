@@ -481,6 +481,10 @@
 			margin: -75px 0 -1px -75px;
 		}
 
+		.center-fix {
+			margin: 0 0 40px 180px
+		}
+
 		.row.uniform.\31 50\25 > * {
 			padding: 75px 0 0 75px;
 		}
@@ -734,6 +738,10 @@
 
 		.row.uniform.\32 5\25 {
 			margin: -8.75px 0 -1px -8.75px;
+		}
+
+		.center-fix {
+			margin: 0 0 40px 135px
 		}
 
 		.\31 2u\28tablet\29, .\31 2u\24\28tablet\29 {
